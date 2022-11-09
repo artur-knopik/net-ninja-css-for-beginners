@@ -1,3 +1,4 @@
-#main-content > p{
-    color: rgb(0, 255, 128);
+#all-articles h2 + p{
+    color: green;
+
 }
