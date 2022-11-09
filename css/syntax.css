@@ -1,4 +1,15 @@
-#all-articles h2 + p{
-    color: green;
+span[class~="deck"]{
+    color:rgb(0, 128, 28);
+}
 
+div[id]{
+    background: grey;
+}
+
+a[title="Search engine"]{
+    color:red;
+
+}
+a[href$="pdf"]{
+    color: red;
 }
