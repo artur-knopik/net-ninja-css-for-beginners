@@ -1,12 +1,13 @@
-#header h1{
-    color:darkblue
+a{
+    color: crimson;
+    text-decoration: none;
+    font-weight: bold;
+    border: black 1px solid;
+    padding: 10px;
+    border-radius: 45px;
 }
 
-#header h2{
-    color: #F3C5C8;
-}
-
-#header{
-
-    background-color: yellow;
+a:hover{
+    color: darkmagenta;
+    text-decoration: underline;
 }
