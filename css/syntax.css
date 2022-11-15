@@ -1,7 +1,12 @@
-#header p{
-    text-transform: capitalize;
+#header h1{
+    color:darkblue
 }
 
-#header p{
-    text-transform: uppercase;
+#header h2{
+    color: #F3C5C8;
+}
+
+#header{
+
+    background-color: yellow;
 }
