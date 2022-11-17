@@ -12,9 +12,9 @@
     background: yellow;
     text-decoration: none;
     background: -webkit-linear-gradient(top, black 0%, green 100%);
-
+box-shadow: 2px 2px 4px 2px yellow;
 }
 
-.button:hover{
+.button:focus{
 background: yellow;
 }
