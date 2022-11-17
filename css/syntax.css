@@ -1,23 +1,9 @@
-#main-content div{
-    background-color: grey;
-    margin: 0 0 20px 0;
-}
-
-.static-width{
+.static-width {
     width: 300px;
     height: 100px;
-    border-radius: 10px;
-}
-
-.percentage-width{
-    width: 70%;
-    height: 20px;
-    border-radius: 5px 10px 15px 20px;
-}
-
-.inline-block{
-    width: 100px;
-    height: 100px;
-    border-radius: 50px;
-
+    background-color: yellow;
+    background-image: url(http://placekitten.com/g/200/300);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 900px;
 }
