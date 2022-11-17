@@ -1,4 +1,8 @@
 .static-width {
     width: 300px;
     height: 100px;
-    background: url(http://placekitten.com/g/200/300) no-repeat top center;
+    background: url(http://placekitten.com/g/200/300), url(http://placekitten.com/g/200/300);
+background-repeat: no-repeat;
+background-position: center, top left;
+background-size: 2%, 39px;
+}
